@@ -1,7 +1,4 @@
-# Innopolis_ITPlabs
+# StackBaseCalculator
 
 # Author: Mukhutdinov Artur
-# Date: 16.11.2022
-
-
-# All my labs programs on JABA (hate this :] )
+# Date: 15.12.2022
